@@ -8,11 +8,11 @@ background-color: gold;
     background-color: white;
 }
 .titulos{
-    color: white;
+    color: darkgoldenrod;
 }
 .imagenLogin{
     border-radius: 50%;
-    width: 150px;
+    width: 160px;
     height: 150px;
 }
 .contenedor-imagen{
@@ -25,3 +25,11 @@ color: gold;
     border-color: white;
     border: solid 1px;
 }
+.Bienvenidos{
+    text-decoration: goldenrod;
+    text-align: center;
+}
+
+    
+
+
